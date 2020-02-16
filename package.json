@@ -1,0 +1,13 @@
+{
+"name": "@marcinjezioranski/98407",
+"version": "1.0.0",
+"description": "zaliczenie WSB",
+"repository": "marcinjezioranski/98407",
+"main": "index.js",
+"keywords": [
+"WSB",
+"npm",
+"package",
+"exam"
+]
+}
